@@ -34,3 +34,10 @@ The app demonstrates user authentication, form handling, JSP integration, and da
 ---
 
 ## 📂 Project Structure
+
+Login-Register-Web-App/
+│── src/main/java/ # Java source files (controllers, services, entities)
+│── src/main/resources/ # application.properties, static files
+│── src/main/webapp/ # JSP views (login.jsp, register.jsp, header.jsp, footer.jsp, etc.)
+│── pom.xml # Maven dependencies
+│── README.md # Project documentation
